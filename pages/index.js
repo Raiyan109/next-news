@@ -1,4 +1,5 @@
 import Head from 'next/head'
+import { Footer } from '../components/Footer'
 import { Toolbar } from '../components/toolbar'
 import styles from '../styles/Home.module.css'
 
@@ -12,6 +13,7 @@ export default function Home() {
           <h1>Next.js News App</h1>
           <h3>Your one stop shop for the latest news articles</h3>
         </div>
+        <Footer />
       </div>
     </>
   )

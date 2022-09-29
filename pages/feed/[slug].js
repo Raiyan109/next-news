@@ -1,6 +1,7 @@
 import styles from '../../styles/Feed.module.css'
 import { useRouter } from 'next/router'
 import { Toolbar } from '../../components/toolbar'
+import { Footer } from '../../components/Footer'
 
 
 export const Feed = ({ pageNumber, articles }) => {
@@ -41,6 +42,7 @@ export const Feed = ({ pageNumber, articles }) => {
                     Next Page
                 </div>
             </div>
+            <Footer />
         </div>
     )
 }
