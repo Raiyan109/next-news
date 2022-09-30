@@ -1,6 +1,6 @@
 import Head from 'next/head'
 import { Footer } from '../components/Footer'
-import { Toolbar } from '../components/toolbar'
+import { Toolbar } from '../components/Toolbar'
 import styles from '../styles/Home.module.css'
 import bg from '../public/images/pexels-gabriel-peter-696644.jpg'
 
