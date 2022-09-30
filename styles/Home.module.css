@@ -4,6 +4,9 @@
   align-items: center;
   justify-content: center;
   flex-direction: column;
+  color: antiquewhite;
+  font-size: 30px;
+  font-family: 'Courier New', Courier, monospace;
 }
 
 .main h1 {

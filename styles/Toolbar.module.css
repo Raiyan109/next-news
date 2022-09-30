@@ -3,6 +3,7 @@
     height: 50px;
     display: flex;
     justify-content: center;
+    background-color: gray;
 }
 
 .main div {
@@ -11,5 +12,5 @@
 }
 
 .main div:hover {
-    color: gray;
+    color: white;
 }
