@@ -1,6 +1,6 @@
 import styles from '../../styles/Feed.module.css'
 import { useRouter } from 'next/router'
-import { Toolbar } from '../../components/toolbar'
+import { Toolbar } from '../../components/Toolbar'
 import { Footer } from '../../components/Footer'
 
 
